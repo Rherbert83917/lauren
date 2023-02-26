@@ -1,0 +1,13 @@
+p{
+    text-align: center;
+    font-size: 44pt;
+    font-style: italic;
+    font-family: fantasy;
+}
+footer{
+    font-family: monospace;
+    font-style: oblique;
+    color: red;
+    text-align: center;
+    font-size: large;
+}
